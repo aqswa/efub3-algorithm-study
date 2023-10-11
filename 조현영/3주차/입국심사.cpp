@@ -1,3 +1,4 @@
+#include <string>
 #include <vector>
 #include <algorithm>
 #include <climits> // 자료형의 최댓값을 이용함

@@ -7,10 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="888ce838-3974-422c-8352-65ebaaa89ccf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/조현영/3주차/서강그라운드.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조현영/3주차/입국심사.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조현영/3주차/컨베이어 벨트 위의 로봇.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조현영/3주차/택배배송.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조현영/3주차/택배 배송.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/조현영/3주차/서강그라운드.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/조현영/3주차/서강그라운드.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/조현영/3주차/입국심사.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/조현영/3주차/입국심사.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/조현영/3주차/택배배송.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,13 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697042345613</updated>
       <workItem from="1697042346843" duration="30000" />
-      <workItem from="1697042414731" duration="924000" />
+      <workItem from="1697042414731" duration="2234000" />
     </task>
     <servers />
   </component>
